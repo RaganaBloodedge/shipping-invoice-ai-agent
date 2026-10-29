@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.zip
+.env
+.venv/
+【批量下载】PDF 示例账单2等/
